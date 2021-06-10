@@ -8,6 +8,6 @@ entries:
     digest: 5d0871e4155cb739e01858d2300da7708b69cad7f77a21bdd6e5584e23ae1f90
     name: metrics-server-exporter
     urls:
-    - https://github.com/SplashThat/metrics-server-exporter/raw/mag/create-repo/pkg/metrics-server-exporter-0.1.0.tgz
+    - https://github.com/SplashThat/metrics-server-exporter/raw/master/pkg/metrics-server-exporter-0.1.0.tgz
     version: 0.1.0
 generated: "2021-05-28T14:07:57.636385783+02:00"

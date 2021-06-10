@@ -7,4 +7,4 @@ pack:
 
 reindex:
 	helm repo index --url https://github.com/SplashThat/metrics-server-exporter .
-	sed -i s@/pkg/@/raw/$(shell git rev-parse --abbrev-ref HEAD)/pkg/@g index.yaml
+	sed -i s@/pkg/@/raw/master/pkg/@g index.yaml
